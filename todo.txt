@@ -1,0 +1,12 @@
+ Volume in drive D is Data
+ Volume Serial Number is 1296-CEE5
+
+ Directory of D:\store
+
+2015-10-28  10:00    <DIR>          .
+2015-10-28  10:00    <DIR>          ..
+2015-10-28  09:55                43 LICENSE
+2015-10-28  09:57                39 README.txt
+2015-10-28  10:00                 0 todo.txt
+               3 File(s)             82 bytes
+               2 Dir(s)  52,105,113,600 bytes free
